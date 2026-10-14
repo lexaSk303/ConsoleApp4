@@ -11,7 +11,6 @@ public class Program
         RunTask1();
         Practica2.RunTask2();
     }
-
     public static void RunTask1()
     {
         string connString = "Host=wotacoma.ru;Port=5090;Username=lexask333;Password=123SLexaS321;Database=lexask333";
