@@ -9,7 +9,10 @@ public class Program
 {
     public static void Main()
     {
-        Practica3.RunTask3();
+        Practica4.RunTask4();
+        //Practica3.RunTask3();
+        //Practica2.RunTask2();
+        //FixAges.MainTRr();
     }
     public static void RunTask1()
     {
