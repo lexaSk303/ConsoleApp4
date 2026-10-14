@@ -2,14 +2,14 @@
 using System.Data;
 using System.Data.Common;
 using ConsoleApp4.Practica2;
+using ConsoleApp4.Practica3;
 using Npgsql;
 
 public class Program 
 {
     public static void Main()
     {
-        RunTask1();
-        Practica2.RunTask2();
+        Practica3.RunTask3();
     }
     public static void RunTask1()
     {
